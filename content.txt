@@ -1,0 +1,12 @@
+1. Class and Object 
+-Employee have some properties like {attributes}--{name, id, department, salery, designation}. and some {Function}--{Report, Presentation, Travel}
+ So here Class is Employee and the attributes are these and objects(Method) are like we made a employee name Arman this object can 
+ acess the sttributes and the functions 
+2.Why Python is called OOP?
+-everything in python is an object like list disctonary etc as we have seen in the rough code and thie=ir are various method inside this list like to append insert etc.
+3. Advantages of Oops:
+-You can create your own Datatype.
+- code reusability
+- debugging in big code
+- easy to colab 
+
